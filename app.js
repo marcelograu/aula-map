@@ -1,0 +1,65 @@
+const cardTemplate  =  `    
+
+   
+<div class="card-container">
+<div class="card-inner">
+        <div class="card">
+            <div class="effect"></div>
+            <div class="content">
+                <header>
+                    <h2>
+                        <span>D</span>ARK <span>M</span>AGICIAN
+                    </h2>
+                    <div class="element">
+                    </div>
+                </header>
+                <div class="star-container">
+                    <div class="star"></div>
+                    <div class="star"></div>
+                    <div class="star"></div>
+                    <div class="star"></div>
+                    <div class="star"></div>
+                    <div class="star"></div>
+                    <div class="star"></div>
+                </div>
+                <figure>
+                    <div class="bg-figure">
+                        <div class="background-character">
+                            <img src="./assets/content_bg.jpg" alt="">
+                        </div>
+                        <div class="circle">
+                            <img src="./assets/circle.png" alt="">
+                        </div>
+                        <div class="character">
+                            <img src="./assets/character.png" alt="">
+                        </div>
+                    </div>
+                </figure>
+                <div class="description-container">
+                        <div class="square s1"></div>
+                        <div class="square s2"></div>
+                        <div class="square s3"></div>
+                        <div class="square s4"></div>
+                        <div class="text-container">
+                            <div class="tipo">[<span>S</span>PELLCASTER]</div>
+                            <p>The ultimate wizard in terms of attack and       defense
+                            </p>
+                        </div>
+                        <div class="points-container">
+                            <div class="atak"> ATK/  2500    </div>
+                            <div class="def"> DEF/  2100  </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--content end-->
+        </div> <!--card end-->
+        <div class="back-card"> test</div>
+</div> <!---->
+</div> <!-- card-container -->
+
+
+
+
+
+
+`
